@@ -1,6 +1,10 @@
-p 
-{
-    
-    color: red;
-    font-size: 100px;
+.parallax {
+  background-image: url('https://ddragon.leagueoflegends.com/cdn/img/champion/splash/AurelionSol_0.jpg');
+
+  min-height: 500px;
+
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
 }
